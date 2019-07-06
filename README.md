@@ -1,6 +1,6 @@
 # splool
 
-<img src="/icon.png" width="256">
+<img src="/splool512.png" width="256">
 
 # Privacy Policy
 
